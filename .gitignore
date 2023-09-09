@@ -1,0 +1,9 @@
+*log*
+*history*
+*key*
+*auth*
+*cred*
+
+*.pem
+
+.ssh/
